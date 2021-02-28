@@ -1,0 +1,26 @@
+YOU MADE IT!
+
+The tenth word is fun because it's different for each of you!
+
+Complete your sentence using the word by your name below: 
+
+Your final word (i know some/most of these are multiple words, but shhh):
+
+Maira: MOVIE
+Maya: BOOK
+Mike: BEVERAGE
+AG: TV_SHOW
+Charlie: FORGE_MEMBER (lol)
+Lukas: PLACE_YOU'VE_VISITED
+Josh: FOOD
+Cannon: MUSICAL_ARTIST
+Roger: RESTAURANT
+Courtney: COFFEE_SHOP
+Abby: COURSE_TAKEN_AT_UVA
+Cameron: TYPE_OF_WEATHER
+
+If we forgot your name on here: treat your final word as:
+"A_MESSAGE_TELLING_THEM_THEY_MESSED_UP."
+
+That's all! Go do the thing the sentence tells you.
+Hope this was fun practice for using cd and ls!
