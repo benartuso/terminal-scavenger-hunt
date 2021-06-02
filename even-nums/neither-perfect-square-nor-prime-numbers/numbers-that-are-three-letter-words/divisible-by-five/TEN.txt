@@ -6,18 +6,15 @@ Complete your sentence using the word by your name below:
 
 Your final word (i know some/most of these are multiple words, but shhh):
 
-Maira: MOVIE
-Maya: BOOK
-Mike: BEVERAGE
-AG: TV_SHOW
-Charlie: FORGE_MEMBER (lol)
-Lukas: PLACE_YOU'VE_VISITED
-Josh: FOOD
-Cannon: MUSICAL_ARTIST
-Roger: RESTAURANT
-Courtney: COFFEE_SHOP
-Abby: COURSE_TAKEN_AT_UVA
-Cameron: TYPE_OF_WEATHER
+Aayushma, Adi, Anna Grace: MOVIE
+Arwen, Cannon, Courtney: BOOK
+Daniel, Dare, David: BEVERAGE
+Donald, Hayden, Humaira: TV_SHOW
+Iris, John, Jon Marco: PLACE_YOU'VE_VISITED
+Julia, Katlyn, Matt: FOOD
+Ryan, Serene, Silas: MUSICAL_ARTIST
+Stephanie, Steven, Sydney: RESTAURANT
+Zach: COFFEE_SHOP
 
 If we forgot your name on here: treat your final word as:
 "A_MESSAGE_TELLING_THEM_THEY_MESSED_UP."
